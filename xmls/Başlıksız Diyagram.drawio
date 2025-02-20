@@ -7,79 +7,79 @@
         <mxCell id="2rDRMEp94gqrxIJUxtEt-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-1" target="2rDRMEp94gqrxIJUxtEt-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-1" value="Testere Kesim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-1" value="Testere Kesim" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-2" target="2rDRMEp94gqrxIJUxtEt-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-2" value="Boy Düzleme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-2" value="Boy Düzleme" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-3" target="2rDRMEp94gqrxIJUxtEt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-3" value="A Kodlu&lt;div&gt;Hammadde&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-3" value="A Kodlu&lt;div&gt;Hammadde&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-4" target="2rDRMEp94gqrxIJUxtEt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-4" value="P Kodu&lt;div&gt;(Kütük Hali)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-4" value="P Kodu&lt;div&gt;(Kütük Hali)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-5" target="2rDRMEp94gqrxIJUxtEt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-5" value="Çap Tornalama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-5" value="Çap Tornalama" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-6" target="2rDRMEp94gqrxIJUxtEt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-6" value="R Kodu&lt;div&gt;(Yarı Özelleşmiş Ürün)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-6" value="R Kodu&lt;div&gt;(Yarı Özelleşmiş Ürün)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-12" target="2rDRMEp94gqrxIJUxtEt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-12" value="Uç Yuvası" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-12" value="Uç Yuvası" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-13" target="2rDRMEp94gqrxIJUxtEt-18">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-13" value="Taşlama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-13" value="Taşlama" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-14" target="2rDRMEp94gqrxIJUxtEt-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-14" value="Kumlama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-14" value="Kumlama" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-18" target="2rDRMEp94gqrxIJUxtEt-21">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-18" value="D Kodu&lt;div&gt;(Demonte Mamul)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-18" value="D Kodu&lt;div&gt;(Demonte Mamul)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="280" y="250" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-20" target="2rDRMEp94gqrxIJUxtEt-24">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-20" value="Montaj" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-20" value="Montaj" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-21" target="2rDRMEp94gqrxIJUxtEt-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-21" value="Markalama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-21" value="Markalama" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-24" target="2rDRMEp94gqrxIJUxtEt-28">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-24" value="Sevkiyat Depo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-24" value="Sevkiyat Depo" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-28">
@@ -87,7 +87,7 @@
             <mxPoint x="370" y="390" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="2rDRMEp94gqrxIJUxtEt-28" value="M Kodu&lt;div&gt;(Mamul)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-28" value="M Kodu&lt;div&gt;(Mamul)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="440" y="350" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2rDRMEp94gqrxIJUxtEt-3">
