@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0" version="26.0.15">
   <diagram name="Sayfa -1" id="AdCGtbygOlPYQi2upEJK">
-    <mxGraphModel dx="1426" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1666" dy="789" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -8,55 +8,101 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-1" value="Testere Kesim" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-2" target="2rDRMEp94gqrxIJUxtEt-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-2" value="Boy Düzleme" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-3" target="2rDRMEp94gqrxIJUxtEt-1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-3" value="A Kodlu&lt;div&gt;Hammadde&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="40" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-4" target="2rDRMEp94gqrxIJUxtEt-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-4" value="P Kodu&lt;div&gt;(Kütük Hali)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="30" width="120" height="80" as="geometry" />
+          <mxGeometry x="440" y="50" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-5" target="2rDRMEp94gqrxIJUxtEt-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-5" value="Çap Tornalama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="40" width="120" height="60" as="geometry" />
+          <mxGeometry x="600" y="160" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-6" target="2rDRMEp94gqrxIJUxtEt-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-6" value="R Kodu&lt;div&gt;(Yarı Özelleşmiş Ürün)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="680" y="150" width="120" height="80" as="geometry" />
+          <mxGeometry x="440" y="150" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-16" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-12" target="2rDRMEp94gqrxIJUxtEt-14">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-12" value="Uç Yuvası" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="280" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-19" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-13" target="2rDRMEp94gqrxIJUxtEt-18">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-13" value="Taşlama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="200" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="260" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-17" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-14" target="2rDRMEp94gqrxIJUxtEt-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-14" value="Kumlama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="360" y="160" width="120" height="60" as="geometry" />
+          <mxGeometry x="120" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-18" target="2rDRMEp94gqrxIJUxtEt-21">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="2rDRMEp94gqrxIJUxtEt-18" value="D Kodu&lt;div&gt;(Demonte Mamul)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
-          <mxGeometry x="140" y="520" width="120" height="80" as="geometry" />
+          <mxGeometry x="280" y="250" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-20" target="2rDRMEp94gqrxIJUxtEt-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-20" value="Montaj" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-21" target="2rDRMEp94gqrxIJUxtEt-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-21" value="Markalama" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-24" target="2rDRMEp94gqrxIJUxtEt-28">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-24" value="Sevkiyat Depo" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="600" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="2rDRMEp94gqrxIJUxtEt-28">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="370" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-28" value="M Kodu&lt;div&gt;(Mamul)&lt;/div&gt;" style="shape=document;whiteSpace=wrap;html=1;boundedLbl=1;" vertex="1" parent="1">
+          <mxGeometry x="440" y="350" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-31" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="2rDRMEp94gqrxIJUxtEt-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="40" y="90" as="sourcePoint" />
+            <mxPoint x="110" y="100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-32" value="Satın Alma" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="2rDRMEp94gqrxIJUxtEt-31">
+          <mxGeometry x="-0.5038" y="2" relative="1" as="geometry">
+            <mxPoint x="10" y="-8" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="2rDRMEp94gqrxIJUxtEt-35" value="Satış" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380" y="368" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
